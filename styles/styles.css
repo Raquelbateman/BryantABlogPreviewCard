@@ -1,0 +1,9 @@
+body {
+    background-color:#F5D04E;
+  }
+
+.card{
+    margin-top:11%;
+    border-color: black;
+    border-radius: 0.25rem;
+}

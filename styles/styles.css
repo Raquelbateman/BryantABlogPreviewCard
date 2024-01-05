@@ -26,6 +26,16 @@ body {
     
 }
 
+h4:hover{
+  color:#F5D04E;
+}
+
+.card-title{
+margin-top: 5%;
+margin-bottom:5%;
+
+}
+
 
 .card-text{
   color:grey;

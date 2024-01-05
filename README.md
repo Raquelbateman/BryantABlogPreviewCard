@@ -15,3 +15,5 @@ David Jimenez -
 * Need to change the font size for the Publish 21 section
 * Maybe add some margin / padding between Published and HTML sections
 * Maybe removed some margin / padding between "< p >" tag and footer picture and Name
+
+//https://github.com/Raquelbateman
